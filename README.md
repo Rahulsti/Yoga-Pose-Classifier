@@ -39,6 +39,6 @@ Use Python 3.11. TensorFlow 2.15 does not support newer Python versions.
 | --- | --- |
 | `app.py` | Streamlit app: loads the model, preprocesses the image, predicts and shows the results |
 | `yoga_pose_model.h5` | Trained MobileNetV2-based Keras model |
-| `requirements.txt.txt` | Python dependencies |
-| `packages.txt.txt` | System packages for deployment |
-| `runtime.txt.txt` | Python version for deployment |
+| `requirements.txt` | Python dependencies |
+| `packages.txt` | System packages for deployment |
+| `runtime.txt` | Python version for deployment |
